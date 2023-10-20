@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/Evereverk/Order-Summary-Componnet.git]
+- Live Site URL: [https://order-summary-componnet.vercel.app/]
 
 ## My process
 
